@@ -25,6 +25,7 @@ require.config({
         utilities: 'lib/utilities',
         notifier: 'lib/notifier',
         request: 'lib/request',
+        headers: 'lib/headers',
         auth: 'lib/auth',
         mocks: 'test/mocks'
     },
